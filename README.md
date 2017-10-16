@@ -18,14 +18,14 @@ The intention is creating a folder per session attended, including slides and li
 
 1. Probabilistic programming, by Tomas Wiecki:
    - This was one of a series of sessions in quantitative trading (or Quant Finance), mostly centered around [Quantopian](https://www.quantopian.com/) for the sessions.
-   - The most interesting point (other than the idea of making money :) ), was Bayesian statistics applications.
+   - The most interesting point - other than the idea of making money :) - was Bayesian statistics applications.
 
 1. Insights from Complex Network Data, by Pablo Suau.
 1. Deep Learning for Developers, by Julien Simon.
 1. Deep Learning in Keras, by Leonard de Marchi.
 1. Introduction to Algorithmic Trading, by Max Margenot.
 1. Introduction to Bayesian Analysis in Python, by Peadar Coyle.
-1. Open Containeriation Tooling, by Phil Weir.
+1. Open Containerization Tooling, by Phil Weir.
 1. Training, Managing and Deploying Models, by Piotr Migdał: essentially how to use [Neptune](https://deepsense.ai/).
 1. Bayesian A/B testing, by Marc Garcia.
 1. TDD-ing a Bayesian Classifier, by Robert Hardy: a look at [pytest](https://docs.pytest.org/).
