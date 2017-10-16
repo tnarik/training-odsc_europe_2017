@@ -27,7 +27,7 @@ The intention is creating a folder per session attended, including slides and li
 1. Introduction to Bayesian Analysis in Python, by Peadar Coyle.
 1. Open Containerization Tooling, by Phil Weir.
 1. Training, Managing and Deploying Models, by Piotr Migdał: essentially how to use [Neptune](https://deepsense.ai/).
-1. Bayesian A/B testing, by Marc Garcia.
+1. Bayesian A/B testing, by [Marc Garcia](https://twitter.com/datapythonista).
 1. TDD-ing a Bayesian Classifier, by Robert Hardy: a look at [pytest](https://docs.pytest.org/).
 
 ## Environment
