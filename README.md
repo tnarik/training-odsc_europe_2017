@@ -22,7 +22,7 @@ The intention is creating a folder per session attended, including slides and li
 
 1. Insights from Complex Network Data, by Pablo Suau.
 1. Deep Learning for Developers, by Julien Simon.
-1. Deep Learning in Keras, by Leonard de Marchi.
+1. Deep Learning in Keras, by [Leonardo de Marchi](https://twitter.com/demarchileo).
 1. Introduction to Algorithmic Trading, by Max Margenot.
 1. Introduction to Bayesian Analysis in Python, by Peadar Coyle.
 1. Open Containerization Tooling, by Phil Weir.
