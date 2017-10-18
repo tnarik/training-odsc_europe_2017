@@ -34,6 +34,10 @@ The intention is creating a folder per session attended, including slides and li
 
 I'm currently using my own environment based on conda [https://github.com/tnarik/env-machine_learning](https://github.com/tnarik/env-machine_learning).
 
+## Notebooks
+
+When present, `*-work.ipynb` notebooks are the worked upon version of the corresponding notebook. That might include additional comments, path modification, etc.
+
 ## Moving forward
 
 Apart from pointers and links to libraries, techonologies and concepts (is always good to have an overview of what's out there), I started thinking on a couple of ideas and toy projects (either for practice or to further explore some new territories). Those won't be available here as they deserve their own repositories.
