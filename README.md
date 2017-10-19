@@ -24,7 +24,7 @@ The intention is creating a folder per session attended, including slides and li
 1. Deep Learning for Developers, by [Julien Simon](https://twitter.com/julsimon).
 1. Deep Learning in Keras, by [Leonardo de Marchi](https://twitter.com/demarchileo).
 1. Introduction to Algorithmic Trading, by Max Margenot.
-1. Introduction to Bayesian Analysis in Python, by Peadar Coyle.
+1. Introduction to Bayesian Analysis in Python, by [Peadar Coyle](https://twitter.com/Springcoil).
 1. Open Containerization Tooling, by Phil Weir.
 1. Training, Managing and Deploying Models, by Piotr Migdał: essentially how to use [Neptune](https://deepsense.ai/).
 1. Bayesian A/B testing, by [Marc Garcia](https://twitter.com/datapythonista).
