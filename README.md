@@ -21,7 +21,7 @@ The intention is creating a folder per session attended, including slides and li
    - The most interesting point - other than the idea of making money :) - was Bayesian statistics applications.
 
 1. Insights from Complex Network Data, by Pablo Suau.
-1. Deep Learning for Developers, by Julien Simon.
+1. Deep Learning for Developers, by [Julien Simon](https://twitter.com/julsimon).
 1. Deep Learning in Keras, by [Leonardo de Marchi](https://twitter.com/demarchileo).
 1. Introduction to Algorithmic Trading, by Max Margenot.
 1. Introduction to Bayesian Analysis in Python, by Peadar Coyle.
