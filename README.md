@@ -4,6 +4,8 @@
 
 This is a bundle compiling information (and snapshots of extenal repositories) related to the ODSC Europe sessions of 2017, held October 12-14 in London).
 
+Not all sessions included code or were all that interesting, so there might be some not corresponding with a folder.
+
 ## Sessions
 
 The intention is creating a folder per session attended, including slides and links when available. If no content is available for a certain session, no content will be provided. The sessions are sorted by a two digit prefix.
