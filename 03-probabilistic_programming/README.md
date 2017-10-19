@@ -8,3 +8,4 @@ Models such as GARCH and the [Quantopian](https://www.quantopian.com/) were refe
 
 PyMC3 was used for modeling including the random walk, as in [http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/](http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/).
 
+In order to generate the animations, the FFmpeg library is required to be installed on the system. On macOS: `brew install ffmpeg`
